@@ -1,5 +1,5 @@
 # SuperCinemanager
-Um gerenciador de cinemas funcional com gráficos ASCII feito em grupo para um trabalho de universidade.
+Um gerenciador de cinema funcional com gráficos ASCII feito em grupo para um trabalho de universidade.
 
 Seu objetivo é gerenciar salas e assentos de cinema, utiliza o SQLite como seu DBMS(sistema de gerenciamento de banco de dados) com uma interface CLI (interface de linha de comando).
 Foi testado em sistemas Windows e Linux.
